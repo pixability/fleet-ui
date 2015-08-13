@@ -4,5 +4,5 @@
 ```
 git https://github.com/xuwang/docker-fleetui-builder.git
 cd docker-fleetui-builder
-./build github.com/xuwang/fleet-ui
+./build.sh github.com/xuwang/fleet-ui
 ```
