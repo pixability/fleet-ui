@@ -8,7 +8,7 @@ import (
 const (
 	FLEETCTL        = "fleetctl"
 	ENDPOINT_OPTION = "--endpoint"
-	ENDPOINT_VALUE  = "http://172.17.42.1:4001"
+	ENDPOINT_VALUE  = "http://10.7.3.243:4001"
 )
 
 type ClientCLI struct {
